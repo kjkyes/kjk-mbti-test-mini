@@ -1,0 +1,152 @@
+[
+  {
+    "options": [
+      {
+        "result": "I",
+        "value": "独自工作",
+        "key": "A"
+      },
+      {
+        "result": "E",
+        "value": "与他人合作",
+        "key": "B"
+      }
+    ],
+    "title": "你通常更喜欢"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "关注细节",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "关注全局",
+        "key": "B"
+      }
+    ],
+    "title": "你更倾向于"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "以逻辑做决定",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "以情感做决定",
+        "key": "B"
+      }
+    ],
+    "title": "你通常如何做决定"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "喜欢计划和安排",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "喜欢灵活和即兴",
+        "key": "B"
+      }
+    ],
+    "title": "你更喜欢"
+  },
+  {
+    "options": [
+      {
+        "result": "I",
+        "value": "喜欢独处",
+        "key": "A"
+      },
+      {
+        "result": "E",
+        "value": "喜欢社交",
+        "key": "B"
+      }
+    ],
+    "title": "你更享受"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "依赖感官经验",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "依赖直觉",
+        "key": "B"
+      }
+    ],
+    "title": "你更倾向于获取信息"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "客观分析问题",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "主观感受问题",
+        "key": "B"
+      }
+    ],
+    "title": "你通常如何处理问题"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "喜欢有条理的生活",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "喜欢随性的生活",
+        "key": "B"
+      }
+    ],
+    "title": "你更倾向于"
+  },
+  {
+    "options": [
+      {
+        "result": "I",
+        "value": "从内心世界获取能量",
+        "key": "A"
+      },
+      {
+        "result": "E",
+        "value": "从外部世界获取能量",
+        "key": "B"
+      }
+    ],
+    "title": "你通常从哪里获取能量"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "注重现实",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "注重可能性",
+        "key": "B"
+      }
+    ],
+    "title": "你更关注"
+  }
+]

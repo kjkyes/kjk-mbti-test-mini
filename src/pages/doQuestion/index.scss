@@ -1,0 +1,28 @@
+.doQuestionPage {
+
+  .title {
+    margin-bottom: 48px;
+  }
+
+  .options-wrapper {
+    margin-bottom: 48px;
+  }
+
+  .controlBtn {
+    margin: 24px 48px;
+    color: white;
+    margin-bottom: 48px; //设置间距
+  }
+
+  .enterBtn {
+    width: 60vw; //vw表示按{属性}占屏幕的百分比
+  }
+
+  .headerBg {
+    display: inline-block;
+    color: #A2C7D7;
+    height: 800px;
+    overflow: hidden;
+    width: 800px;
+  }
+}

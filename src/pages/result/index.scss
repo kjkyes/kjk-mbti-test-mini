@@ -1,0 +1,29 @@
+.resultPage {
+  background: skyblue; //skyblue
+
+  .title {
+    color: white;
+    //font-size: 48px;
+    padding-top: 48px; //设置间距
+    padding-bottom: 48px;
+    text-align: center;
+  }
+
+  .subtitle {
+    color: white;
+    margin-bottom: 48px; //设置间距
+    text-align: center;
+  }
+
+  .enterBtn {
+    width: 60vw; //vw表示按{属性}占屏幕的百分比
+  }
+
+  .headerBg {
+    display: inline-block;
+    color: #A2C7D7;
+    height: 800px;
+    overflow: hidden;
+    width: 800px;
+  }
+}

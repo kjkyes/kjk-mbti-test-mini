@@ -1,0 +1,62 @@
+[
+  {
+    "resultProp": ["I", "S", "T", "J"],
+    "resultDesc": "忠诚可靠，被公认为务实，注重细节。",
+    "resultPicture": "icon_url_istj",
+    "resultName": "ISTJ（物流师）"
+  },
+  {
+    "resultProp": ["I", "N", "F", "P"],
+    "resultDesc": "富有创造力，喜欢探索新的可能性，注重情感。",
+    "resultPicture": "icon_url_infp",
+    "resultName": "INFP（调停者）"
+  },
+  {
+    "resultProp": ["E", "S", "F", "P"],
+    "resultDesc": "热情友善，喜欢与人互动，注重实际。",
+    "resultPicture": "icon_url_esfp",
+    "resultName": "ESFP（表演者）"
+  },
+  {
+    "resultProp": ["E", "N", "T", "J"],
+    "resultDesc": "战略家，喜欢分析和规划，注重逻辑。",
+    "resultPicture": "icon_url_entj",
+    "resultName": "ENTJ（指挥官）"
+  },
+  {
+    "resultProp": ["I", "N", "T", "P"],
+    "resultDesc": "好奇心旺盛，喜欢探索新想法，注重逻辑。",
+    "resultPicture": "icon_url_intp",
+    "resultName": "INTP（建筑师）"
+  },
+  {
+    "resultProp": ["E", "S", "T", "P"],
+    "resultDesc": "冒险家，喜欢刺激和挑战，注重实际。",
+    "resultPicture": "icon_url_estp",
+    "resultName": "ESTP（企业家）"
+  },
+  {
+    "resultProp": ["I", "S", "F", "J"],
+    "resultDesc": "关怀他人，注重和谐，喜欢帮助别人。",
+    "resultPicture": "icon_url_isfj",
+    "resultName": "ISFJ（守护者）"
+  },
+  {
+    "resultProp": ["E", "N", "F", "J"],
+    "resultDesc": "富有感染力，喜欢激励他人，注重情感。",
+    "resultPicture": "icon_url_enfj",
+    "resultName": "ENFJ（提倡者）"
+  },
+  {
+    "resultProp": ["I", "N", "F", "J"],
+    "resultDesc": "理想主义者，喜欢帮助他人实现梦想。",
+    "resultPicture": "icon_url_infj",
+    "resultName": "INFJ（提倡者）"
+  },
+  {
+    "resultProp": ["E", "S", "F", "J"],
+    "resultDesc": "热心助人，注重实际，喜欢组织活动。",
+    "resultPicture": "icon_url_esfj",
+    "resultName": "ESFJ（供给者）"
+  }
+]
